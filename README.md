@@ -1,5 +1,3 @@
-# Assignment 3
-
 This is a C project using the `ffmpeg`, `cairo` and `gtk` graphics library to build an application
 
 ## Project Brief
